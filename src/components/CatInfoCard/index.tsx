@@ -1,0 +1,1 @@
+export { CatInfoCard } from './CatInfoCard';
