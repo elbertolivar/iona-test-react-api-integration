@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
+To see the app in action, click the link below:
+
+[https://elbert-cat-browser.herokuapp.com]
+
 ## Available Scripts
 
 In the project directory, you can run:
