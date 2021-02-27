@@ -8,6 +8,14 @@ To see the app in action, click the link below:
 
 [https://elbert-cat-browser.herokuapp.com]
 
+## Screenshots
+
+<img width="1435" alt="Screen Shot 2021-02-27 at 7 19 17 PM" src="https://user-images.githubusercontent.com/36879102/109385708-d5f61f00-7930-11eb-9b23-f58daab1f733.png">
+
+
+<img width="1435" alt="Screen Shot 2021-02-27 at 7 19 55 PM" src="https://user-images.githubusercontent.com/36879102/109385712-d989a600-7930-11eb-9b39-3b0bce2f5ec6.png">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
